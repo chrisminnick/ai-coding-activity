@@ -22,18 +22,15 @@ In this activity, you'll work as a team, and with a generative AI tool, to creat
 ### Part 1: Organize your team
 
 1. Each team should create a new GitHub repository for their trivia game.
-2. Each team should create a new blank HTML file in their repository.
-3. Each team should create a new empty JavaScript file in their repository.
-4. Each team should create a new empty CSS file in their repository.
-5. Each team member should clone the repository to their local computer. The owner of the repository should give each team member write access to the repository.
-6. As a team, decide on roles for each team member. More than one team member can have the same role. Roles might include:
+2. Each team member should clone the repository to their local computer. The owner of the repository should give each team member write access to the repository.
+3. As a team, decide on roles for each team member. More than one team member can have the same role. Roles might include:
    - Project Manager
    - Writer
    - Designer
    - Programmer
    - QA
-7. As a team, decide on a topic (or multiple topics) for your trivia game. Use ChatGPT or Copilot to generate ideas for topics.
-8. As a team, decide on a name for your trivia game. Use ChatGPT or Copilot to generate ideas for names.
+4. As a team, decide on a topic (or multiple topics) for your trivia game. Use ChatGPT or Copilot to generate ideas for topics.
+5. As a team, decide on a name for your trivia game. Use ChatGPT or Copilot to generate ideas for names.
 
 ### Part 2: Create the game content
 
