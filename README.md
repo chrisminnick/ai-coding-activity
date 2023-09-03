@@ -87,6 +87,7 @@ In this part, you'll create a test plan and test your game.
      - `Write tests for this trivia game using the Jest testing framework.`
      - `What other ways can we test this trivia game?`
      - `What other tests can we write for this trivia game?`
+   - Notice that the generative AI tool will likely not be able to run the tests it generates. Can you figure out how to prompt the tool to simulate running the tests?
 3. As a team, review the test results and make any necessary changes.
 
 ### Part 5: Publish the game
@@ -95,6 +96,7 @@ In this part, you'll publish your game.
 
 1. As a team, decide on a way to publish your trivia game. For example, you might publish it as a web page, a mobile app, or a voice app. Use ChatGPT or Copilot to generate ideas for ways to publish your game.
    - Suggested prompt: `Publish this trivia game.`
+   - Notice that the generative AI tool will likely not be able to publish the game. Can you figure out how to prompt the tool to simulate publishing the game? Or, were the responses from the generative AI tool helpful in figuring out how to publish the game?
 2. Publish your trivia game.
 
 Wrap-up discussion questions:
