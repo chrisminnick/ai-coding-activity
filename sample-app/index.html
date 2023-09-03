@@ -2,12 +2,22 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>US History Trivia</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Trivia Game</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <div id="question-text"></div>
-    <script src="game.js" type="module"></script>
-    <script src="main.js" type="module"></script>
+    <div class="container">
+      <h1>Trivia Game</h1>
+      <div class="question-container">
+        <h2 id="question"></h2>
+        <button id="answer1" class="answer-btn"></button>
+        <button id="answer2" class="answer-btn"></button>
+        <button id="answer3" class="answer-btn"></button>
+        <button id="answer4" class="answer-btn"></button>
+      </div>
+      <p>Score: <span id="score">0</span></p>
+    </div>
+    <script src="script.js"></script>
   </body>
 </html>
