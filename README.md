@@ -38,6 +38,7 @@ In this part, you'll organize your team and decide on a topic for your trivia ga
 1. As a team, decide on a topic (or multiple topics) for your trivia game. Use ChatGPT or Copilot to generate ideas for topics.
 
    - Suggested prompt: `What are some good topics for a trivia game?`
+   - Suggested followup: `How about something weirder?`
 
 1. As a team, decide on a name for your trivia game. Use ChatGPT or Copilot to generate ideas for names.
 
