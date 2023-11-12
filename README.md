@@ -100,9 +100,15 @@ In this part, you'll publish your game.
    - Notice that the generative AI tool will likely not be able to publish the game. Can you figure out how to prompt the tool to simulate publishing the game? Or, were the responses from the generative AI tool helpful in figuring out how to publish the game?
 2. Publish your trivia game.
 
-Wrap-up discussion questions:
+### Part 6: Presentation
 
-1. What was the most challenging part of this activity?
-2. What was the most fun part of this activity?
-3. What did you learn from this activity?
-4. What would you do differently if you did this activity again?
+In this part, you'll create a short (10-minute) presentation and show off your work.
+
+1. Use ChatGPT to generate slides for a presentation about your app / game. Here are some questions to think about as you're creating your presentation:
+
+- What was the most challenging part of this activity?
+- What was the most fun part of this activity?
+- What did you learn from this activity?
+- What would you do differently if you did this activity again?
+
+2. Decide on a presenter (or group of presenters) from the members of the team.
