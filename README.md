@@ -1,6 +1,6 @@
 # ai-coding-activity
 
-An activity for introducing programmers to programming with generative AI
+An activity for introducing programmers and non-programmers to programming with generative AI
 
 copyright 2023, Chris Minnick
 
@@ -10,12 +10,12 @@ In this activity, you'll work as a team, and with a generative AI tool, to creat
 
 ## Requirements
 
-1. Each team, and preferably each member of each team, should have access to a generative AI tool such as ChatGPT or Copilot.
+1. Each team, and preferably each member of each team, should have access to a generative AI tool such as ChatGPT, Google Bard, Microsoft Bing, or Github Copilot.
 2. Each team should have access to a code editor such as VS Code.
 3. Each team should have access to a GitHub account.
 4. Each participant should have access to this GitHub repository.
 5. Each team should have access to a web browser.
-6. Participants should have familiarity with JavaScript, HTML, and CSS.
+6. At least one person on each team should have some familiarity with JavaScript, HTML, and CSS.
 
 ## Instructions
 
@@ -23,7 +23,7 @@ In this activity, you'll work as a team, and with a generative AI tool, to creat
 
 In this part, you'll organize your team and decide on a topic for your trivia game.
 
-1. Decide on a team name. Use ChatGPT or Copilot to generate ideas.
+1. Decide on a team name. Use your AI assistant to generate ideas.
 
    - Suggested prompt: `What are some good names for a coding team? Names should be short and memorable, and appropriate for a professional environment.`
 
@@ -35,12 +35,12 @@ In this part, you'll organize your team and decide on a topic for your trivia ga
    - Designer
    - Programmer
    - QA
-1. As a team, decide on a topic (or multiple topics) for your trivia game. Use ChatGPT or Copilot to generate ideas for topics.
+1. As a team, decide on a topic (or multiple topics) for your trivia game. Use your AI assistant to generate ideas for topics.
 
    - Suggested prompt: `What are some good topics for a trivia game?`
    - Suggested followup: `How about something weirder?`
 
-1. As a team, decide on a name for your trivia game. Use ChatGPT or Copilot to generate ideas for names.
+1. As a team, decide on a name for your trivia game. Use your AI assistant to generate ideas for names.
 
    - Suggested prompt: `What are some good names for a trivia game about U.S. History?`
 
@@ -59,7 +59,7 @@ In this part, you'll use your generative AI tool to create the content for your 
 
 In this part, you'll use your code editor to create the game.
 
-1. As a team, decide on the rules for your trivia game. Use ChatGPT or Copilot to generate ideas for rules.
+1. As a team, decide on the rules for your trivia game. Use your AI tool to generate ideas for rules.
 
    - Suggested prompt: `What are some good ideas for making a trivia game fun?`
 
@@ -78,9 +78,9 @@ In this part, you'll use your code editor to create the game.
 
 In this part, you'll create a test plan and test your game.
 
-1. As a team, create a test plan for your trivia game. Use ChatGPT or Copilot to generate ideas for test plans.
+1. As a team, create a test plan for your trivia game. Use your AI tool to generate ideas for test plans.
    - Suggested prompt: `Create a test plan for this trivia game.`
-2. As a team, test your trivia game. Use ChatGPT or Copilot to generate ideas for test cases.
+2. As a team, test your trivia game. Use your AI tool to generate ideas for test cases.
    - Suggested prompts:
      - `Test this trivia game.`
      - `Test this trivia game by playing it.`
@@ -95,7 +95,7 @@ In this part, you'll create a test plan and test your game.
 
 In this part, you'll publish your game.
 
-1. As a team, decide on a way to publish your trivia game. For example, you might publish it as a web page, a mobile app, or a voice app. Use ChatGPT or Copilot to generate ideas for ways to publish your game.
+1. As a team, decide on a way to publish your trivia game. For example, you might publish it as a web page, a mobile app, or a voice app. Use your AI tool to generate ideas for ways to publish your game.
    - Suggested prompt: `Publish this trivia game.`
    - Notice that the generative AI tool will likely not be able to publish the game. Can you figure out how to prompt the tool to simulate publishing the game? Or, were the responses from the generative AI tool helpful in figuring out how to publish the game?
 2. Publish your trivia game.
@@ -104,7 +104,7 @@ In this part, you'll publish your game.
 
 In this part, you'll create a short (10-minute) presentation and show off your work.
 
-1. Use ChatGPT to generate slides for a presentation about your app / game. Here are some questions to think about as you're creating your presentation:
+1. Use your AI tool to generate slides for a presentation about your app / game. Here are some questions to think about as you're creating your presentation:
 
 - What was the most challenging part of this activity?
 - What was the most fun part of this activity?
