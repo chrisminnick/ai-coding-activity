@@ -19,6 +19,8 @@ In this activity, you'll work as a team, and with a generative AI tool, to creat
 
 ## Instructions
 
+Read through these instructions before beginning the activity. There are some helpful tips at the end of the instructions.
+
 ### Part 1: Organize your team
 
 In this part, you'll organize your team and decide on a topic for your trivia game.
@@ -27,8 +29,8 @@ In this part, you'll organize your team and decide on a topic for your trivia ga
 
    - Suggested prompt: `What are some good names for a coding team? Names should be short and memorable, and appropriate for a professional environment.`
 
-1. Each team should create a new GitHub repository for their trivia game.
-1. Each team member should clone the repository to their local computer. The owner of the repository should give each team member write access to the repository.
+1. Each team should create a new GitHub repository for their trivia game or decide on another method for sharing files.
+1. If using Git, team member should clone the repository to their local computer. The owner of the repository should give each team member write access to the repository.
 1. As a team, decide on roles for each team member. More than one team member can have the same role. Roles might include:
    - Project Manager
    - Writer
@@ -52,7 +54,6 @@ In this part, you'll use your generative AI tool to create the content for your 
 
    - Suggested prompt: `What are some good questions and answers about the history of the United States? Format the questions and answers so they can be used by a JavaScript program.`
 
-2. Copy the content from your generative AI tool into a file in your GitHub repository.
 3. As a team, review the content and make any necessary changes.
 
 ### Part 3: Create the game
@@ -112,3 +113,14 @@ In this part, you'll create a short (10-minute) presentation and show off your w
 - What would you do differently if you did this activity again?
 
 2. Decide on a presenter (or group of presenters) from the members of the team.
+
+### Helpful tips for coding with AI
+
+1. Context is everything. The more information you can provide about the task, the more helpful the tool can be.
+2. Consider token limits. In long conversations, the ChatBot will remember a limited amount of the previous conversation with each additional prompt. You may need to repeat a previous prompt, or ask the chatbot to summarize the previous conversation so it remembers.
+3. Use "continue". The amount of content a tool will generate at once is limited, but you can tell it to keep going with an answer by typing "continue."
+4. Keep instructions short and precise.
+5. Ask follow-up questions or ask it to try again.
+6. Don't be naive. You're the expert and GenAI tools will often do things wrong or in less-than-ideal ways.
+7. Assign the tool a role. For example: "You are an expert [coder, data scientist, technical writer, comedian, etc]." 
+
