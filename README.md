@@ -101,16 +101,14 @@ In this part, you'll publish your game.
 
 ### Part 6: Presentation
 
-In this part, you'll create a short (10-minute) presentation and show off your work.
+In this part, you'll create a short (10-minute) presentation about your game.
 
-1. Use your AI tool to generate slides for a presentation about your app / game. Here are some questions to think about as you're creating your presentation:
+1. Use your AI tool to generate text (and images?) for slides for a presentation about your app / game. Here are some questions to think about as you're creating your presentation:
 
 - What was the most challenging part of this activity?
 - What was the most fun part of this activity?
 - What did you learn from this activity?
 - What would you do differently if you did this activity again?
-
-2. Decide on a presenter (or group of presenters) from the members of the team.
 
 ### Helpful tips for coding with AI
 
